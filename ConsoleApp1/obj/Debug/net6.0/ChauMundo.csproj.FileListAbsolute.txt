@@ -1,0 +1,15 @@
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\bin\Debug\net6.0\ChauMundo.exe
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\bin\Debug\net6.0\ChauMundo.deps.json
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\bin\Debug\net6.0\ChauMundo.runtimeconfig.json
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\bin\Debug\net6.0\ChauMundo.dll
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\bin\Debug\net6.0\ChauMundo.pdb
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ChauMundo.csproj.AssemblyReference.cache
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ChauMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ChauMundo.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ChauMundo.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ChauMundo.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ChauMundo.dll
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\refint\ChauMundo.dll
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ChauMundo.pdb
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ChauMundo.genruntimeconfig.cache
+C:\Users\Ruben\Desktop\Curso.Net\Tp1EnNet\ConsoleApp1\obj\Debug\net6.0\ref\ChauMundo.dll
